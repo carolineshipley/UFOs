@@ -8,7 +8,7 @@ The original webpage only provided a date filter and to provide better visualiza
 ## Results
 The first webpage only had a date filter and the users needed to click a button for the filter to be applied. 
 
-The new webpage allows users to filter date, city, state, country and shape. And the filter us applied by inputting a criteria into one of the filter fields. The webpage will then automatically filter the table to display relevant data. 
+The new webpage allows users to filter date, city, state, country and shape. And the filter is applied by inputting a criteria into one of the filter fields. The webpage will then automatically filter the table to display relevant data. 
 
 Below is how the webpage looks like before applying a filter:
 ![unfiltered_table](https://github.com/carolineshipley/UFOs/blob/main/Resources/UFOs.PNG)
