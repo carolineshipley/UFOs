@@ -11,11 +11,10 @@ The first webpage only had a date filter and the users needed to click a button 
 The new webpage allows users to filter date, city, state, country and shape. And the filter us applied by inputting a criteria into one of the filter fields. The webpage will then automatically filter the table to display relevant data. 
 
 Below is how the webpage looks like before applying a filter:
-![unfiltered_table](https://github.com/carolineshipley/UFOs/resources/UFOs.PNG)
-
+![unfiltered_table](https://github.com/carolineshipley/UFOs/blob/main/Resources/UFOs.PNG)
 
 This is an example of the webpage after filtering for city "el cajon":
-![unfiltered_table](https://github.com/carolineshipley/UFOs/resources/el_cajon.PNG)
+![unfiltered_table](https://github.com/carolineshipley/UFOs/blob/main/Resources/el_cajon.PNG)
 
 ## Summary of Analysis
 One drawback of this webpage is that the table is currently unable to resize based on the device which the webpage is viewed on. 
